@@ -1,0 +1,13 @@
+body {
+    color: #ff0000;
+    background: skyblue;
+    font-size: 20px;
+}
+
+.header {
+    font-size: 24px;
+}
+
+.name{
+    color: blue
+}
